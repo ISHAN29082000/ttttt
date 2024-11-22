@@ -1,0 +1,6 @@
+ultralytics
+streamlit
+Pillow
+numpy
+torch
+python==3.12
